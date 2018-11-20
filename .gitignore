@@ -74,6 +74,9 @@ target/
 
 # pyenv
 .python-version
+bin/
+lib64
+pyvenv.cfg
 
 # celery beat schedule file
 celerybeat-schedule
@@ -102,3 +105,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Repo Specific ignores
+downloads/
