@@ -2,7 +2,6 @@ import requests as r
 from pathlib import Path
 import sys
 import time
-import keys
 import FIO
 
 # The URL requests uses to make the API call
